@@ -2,7 +2,6 @@
 
 Run the latest object-detection SOTA model YOLOv8 with DeepStream!
 
-![FPS](resources/yolov8.gif)
 
 ## Repository setup
 
@@ -17,7 +16,7 @@ sudo apt install git
 Next, clone the repository
 
 ```sh
-https://github.com/kn1ghtf1re/yolov8-deepstream-6-1.git
+git clone https://github.com/NMadhub/deepstream6.1-yolov8.git
 ```
 
 ## Download the model files
